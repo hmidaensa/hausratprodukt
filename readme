@@ -1,0 +1,23 @@
+--- Die folgenden Technoligie wurden genutzt:
+Spring Boot
+Lombok
+JUnit 5
+OpenAPI
+Java 17
+JaCoCo Library for Java
+Maven
+--- Installation
+Es soll der folgende Befehl ausgeführt werden.
+
+mvn clean install
+
+--- Testen
+Die Testen wurden geschrieben mit JUnit 5.
+
+Service, Komponent und Kontrolle sind 100% bedeckt
+
+--
+
+Die Lösung kann mit Swagger via folgender Linke getestet werden
+
+http://localhost:8282/swagger-ui/index.html
