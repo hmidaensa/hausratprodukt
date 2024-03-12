@@ -12,7 +12,7 @@ Es soll der folgende Befehl ausgeführt werden.
 mvn clean install
 
 --- Testen
-Die Testen wurden geschrieben mit JUnit 5.
+Die Testen wurden mit JUnit 5 geschrieben.
 
 Service, Komponent und Kontrolle sind 100% bedeckt
 
